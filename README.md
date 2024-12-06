@@ -1,4 +1,4 @@
-# MNIST 99.4% Accuracy Model
+# MNIST Accuracy Model
 
 A PyTorch implementation achieving 99.4% test accuracy on MNIST using less than 20,000 parameters.
 
